@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **hugo@hugosibony.com**
 
-- 📄 Know about my experiences [resume.pdf](https://hugosibony.com/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
