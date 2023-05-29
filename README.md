@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo Sibony</h1>
 <h3 align="center">Undergraduate Computer Engineering Student @ EPITA, France</h3>
 
-- 🌱 I’m currently learning **Rust, HUGO framework and Ethical Hacking**
+- 🌱 I’m currently learning **Ethical Hacking, Rust and HUGO framework**
 
 - 👨‍💻 All of my projects are available at [hugosibony.com/portfolio](https://hugosibony.com/portfolio)
 
