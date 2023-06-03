@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking, Rust and HUGO framework**
 
-- 👨‍💻 All of my projects are available at [hugosibony.com/portfolio](https://kazetachinuu.github.com/)
+- 👨‍💻 All of my projects are available at [hugosibony.com/portfolio](https://kazetachinuu.github.io/)
 
 - 📫 How to reach me **hugo@hugosibony.com**
 
