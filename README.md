@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hugo@hugosibony.com**
 
-- 🔒 @dooobii
+- 🔒 [@dooobii](https://github.com/dooobii)
 
 
 <h3 align="left">Connect with me:</h3>
