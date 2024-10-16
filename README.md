@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo Sibony</h1>
 <h3 align="center">Computer Engineering Student in CyberSecurity @ EPITA, Paris 🇫🇷</h3>
 
-- 🌱 I’m currently learning **Ethical Hacking, Network Security to be a Junior Pentester**
+- 🌱 I’m currently learning **Ethical Hacking and Network Security to be a Junior Pentester**
   
 - Working on Cyber Threat Intelligence and Hunting
 
