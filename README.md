@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [hugosibony.com/portfolio](https://kazetachinuu.github.io/portfolio)
 
-- 📫 How to reach me **hugo@hugosibony.com**
+- 📫 How to reach me **hugo.sibony@epita.fr**
 
 - 🔒 [@dooobii](https://github.com/dooobii)
 
