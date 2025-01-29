@@ -14,7 +14,7 @@
 
 ## 🔒 Experience
 
-- 🕵️ **Cyber Threat Intelligence Hunter @ French Intelligence**
+- 🕵️ **Cyber Threat Intelligence Hunter @ WELAN**
   - Threat Detection & Analysis
   - Penetration Testing
   - OSINT
