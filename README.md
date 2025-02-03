@@ -62,7 +62,7 @@
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KazeTachinuu&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=2A2F38&text_color=E1E3E4&title_color=72CCE8&icon_color=BA9CF3)](https://github.com/KazeTachinuu)
   
   [![Root-Me](https://img.shields.io/badge/RootMe-Top%203%25-FF6578?style=flat-square&logo=rootme&logoColor=24272E)](https://www.root-me.org/KazeTachinuu)
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_10%25-9DD274?style=flat-square&logo=tryhackme&logoColor=24272E)](https://tryhackme.com/p/KazeTachinuu)
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_8%25-9DD274?style=flat-square&logo=tryhackme&logoColor=24272E)](https://tryhackme.com/p/KazeTachinuu)
 
   
 </div>
